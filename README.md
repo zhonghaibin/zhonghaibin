@@ -5,7 +5,7 @@
 是一名php开发者。也会一些前端，喜欢开源，也很喜欢折腾。联系方式如下 -
 
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zhonghaibin92@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://github.com/zhonghaibin/zhonghaibin/blob/main/images/buymeacoffee.jpg)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/zhonghaibin/zhonghaibin/main/images/qrcode_wechat.jpg)
 
 - 🚀 我每天使用:
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://zhonghaibin.com/)
@@ -115,7 +115,7 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/zhonghaibin/zhonghaibin/blob/main/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
+  <a href="https://raw.githubusercontent.com/zhonghaibin/zhonghaibin/main/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
         align="center"
