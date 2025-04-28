@@ -2,11 +2,12 @@
 
 ### 你好👋，我是钟海彬。
 
-是一名php开发者。也会一些前端，喜欢开源，也很喜欢折腾。[![个人博客](https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://zhonghaibin.dpdns.org/)联系方式如下 -
+是一名php开发者。也会一些前端，喜欢开源，也很喜欢折腾。联系方式如下 -
 
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zhonghaibin92@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/zhonghaibin/zhonghaibin/main/images/qrcode_wechat.jpg)
-
+-  我的博客:
+   [![个人博客](https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://zhonghaibin.dpdns.org/)
 - 🚀 我每天使用:
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://www.zhonghaibin.com/)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://www.zhonghaibin.com/)
