@@ -7,9 +7,15 @@
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zhonghaibin92@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/zhonghaibin/zhonghaibin/main/images/qrcode_wechat.jpg)
 - 😊 我的应用:
-   [![周刊](https://img.shields.io/badge/周刊-%231E90FF?style=for-the-badge&logo=chat&logoColor=white)](https://iweekly.dpdns.org/ "周刊"){:target="_blank"}
-   [![论坛](https://img.shields.io/badge/论坛-%2332CD32?style=for-the-badge&logo=chat&logoColor=white)](https://vmoex.dpdns.org/ "论坛"){:target="_blank"}
-   [![博客](https://img.shields.io/badge/博客-%23FF6347?style=for-the-badge&logo=chat&logoColor=white)](https://zhonghaibin.dpdns.org/ "个人博客"){:target="_blank"}
+<a href="https://iweekly.dpdns.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/周刊-%231E90FF?style=for-the-badge&logo=chat&logoColor=white" alt="周刊">
+</a>
+<a href="https://vmoex.dpdns.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/论坛-%2332CD32?style=for-the-badge&logo=chat&logoColor=white" alt="论坛">
+</a>
+<a href="https://zhonghaibin.dpdns.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/博客-%23FF6347?style=for-the-badge&logo=chat&logoColor=white" alt="个人博客">
+</a>
 - 🚀 我每天使用:
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://www.zhonghaibin.com/)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://www.zhonghaibin.com/)
